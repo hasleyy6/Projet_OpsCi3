@@ -1,0 +1,3 @@
+name,description,stock_available,barcode,nb_stock
+Product 131, Description of Product 1,15,1234567890,100
+Product 132, Description of Product 2,15,1234567890,100

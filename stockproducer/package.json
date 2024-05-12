@@ -1,0 +1,23 @@
+{
+  "name": "stock-producer",
+  "version": "1.0.1",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opsci-su/stock-producer"
+  },
+  "bugs": {
+    "url": "https://github.com/opsci-su/stock-producer/issues"
+  },
+  "homepage": "https://github.com/opsci-su/stock-producer#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
