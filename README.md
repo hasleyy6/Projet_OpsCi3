@@ -1,2 +1,4 @@
 Aijjou Bayane 21113693\
 Mohamed Bennis Nechba 28706175
+Adnane HAMI 28710673
+Ward KHALIFE 21106858
